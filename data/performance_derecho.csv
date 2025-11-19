@@ -1,0 +1,55 @@
+Status,Tablero,CW,Value
+Green,Project Status ,CW41,139
+Yellow,Project Status ,CW41,47
+Red,Project Status ,CW41,2
+No Status,Project Status ,CW41,6
+Green,Project Status ,CW45,156
+Yellow,Project Status ,CW45,33
+Red,Project Status ,CW45,2
+No Status,Project Status ,CW45,7
+Green,Project Status ,CW49,151
+Yellow,Project Status ,CW49,36
+Red,Project Status ,CW49,1
+No Status,Project Status ,CW49,8
+Green,Project Status ,CW03,149
+Yellow,Project Status ,CW03,28
+Red,Project Status ,CW03,2
+No Status,Project Status ,CW03,6
+Green,Project Status ,CW06,150
+Yellow,Project Status ,CW06,31
+Red,Project Status ,CW06,7
+No Status,Project Status ,CW06,2
+Green,Project Status ,CW10,139
+Yellow,Project Status ,CW10,27
+Red,Project Status ,CW10,4
+No Status,Project Status ,CW10,1
+Green,Project Status ,CW15,158
+Yellow,Project Status ,CW15,36
+Red,Project Status ,CW15,2
+No Status,Project Status ,CW15,2
+Green,Project Status ,CW19,144
+Yellow,Project Status ,CW19,32
+Red,Project Status ,CW19,4
+No Status,Project Status ,CW19,1
+Green,Project Status ,CW23,149
+Yellow,Project Status ,CW23,33
+Red,Project Status ,CW23,0
+No Status,Project Status ,CW23,2
+Green,Gate status,CW41,73
+Red,Gate status,CW41,17
+Green,Gate status,CW45,67
+Red,Gate status,CW45,18
+Green,Gate status,CW49,63
+Red,Gate status,CW49,21
+Green,Gate status,CW03,62
+Red,Gate status,CW03,10
+Green,Gate status,CW06,60
+Red,Gate status,CW06,16
+Green,Gate status,CW10,64
+Red,Gate status,CW10,12
+Green,Gate status,CW15,62
+Red,Gate status,CW15,20
+Green,Gate status,CW19,60
+Red,Gate status,CW19,21
+Green,Gate status,CW23,63
+Red,Gate status,CW23,16

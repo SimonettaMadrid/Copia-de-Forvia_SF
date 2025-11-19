@@ -1,0 +1,31 @@
+Status,Tablero,Region,Value
+Green,Project Health,Asia,23
+Yellow,Project Health,Asia,0
+Red,Project Health,Asia,0
+No Status,Project Health,Asia,0
+Green,Gate status,Asia,16
+Red,Gate status,Asia,0
+Green,Project Health,Europe,74
+Yellow,Project Health,Europe,19
+Red,Project Health,Europe,0
+No Status,Project Health,Europe,2
+Green,Gate status,Europe,31
+Red,Gate status,Europe,5
+Green,Project Health,NAO,28
+Yellow,Project Health,NAO,8
+Red,Project Health,NAO,0
+No Status,Project Health,NAO,0
+Green,Gate status,NAO,8
+Red,Gate status,NAO,5
+Green,Project Health,SAO,8
+Yellow,Project Health,SAO,3
+Red,Project Health,SAO,0
+No Status,Project Health,SAO,0
+Green,Gate status,SAO,3
+Red,Gate status,SAO,2
+Green,Project Health,WW,16
+Yellow,Project Health,WW,3
+Red,Project Health,WW,0
+No Status,Project Health,WW,0
+Green,Gate status,WW,5
+Red,Gate status,WW,4

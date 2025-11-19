@@ -1,0 +1,265 @@
+﻿Number,Project,Number,Status Date,Overall health,Functions on board,Solution,Resources,Risks on prod,Ok for Launch,Handover,Close and learn,GR1,GR2a,GR2b,GR3,GR4,Last WAR,WAR Tweet
+PRJSTAT0075388,NAO FAS Supplier Consignment Project,PRJ0075325,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,"Go live was May 7. Awaiting 1st consignment flow on WK23: reception, unconsignment & invoicing."
+PRJSTAT0075383,FCS -FIS - Blue Springs - EWM Deployment,PRJ0074465,6/6/2025,Green,,,,,,,,100,100,0,0,0,VERDADERO,No Major Blocking points Identified in UAT
+PRJSTAT0075363,Xian BYD FAS DMC project deployment,PRJ0075363,6/6/2025,Green,,,,,,,,96,0,0,0,0,VERDADERO,OK
+PRJSTAT0075361,Changzhou FIS 2679 FCS migration,PRJ0075248,6/6/2025,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,VERDADERO,pending by business side.
+PRJSTAT0075364,Zhengzhou BYD FAS DMC project deployment,PRJ0075167,6/6/2025,Green,,,,,,,,96,93,100,96,0,VERDADERO,OK
+PRJSTAT0075378,Kisters AZURE platform,PRJ0073486,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,3DWebviewer 2025.3  UAT in progress - VPN Hella  issue solved - Reduce cost request
+PRJSTAT0075366,NEO/PREACTOR - FCM - TERNI,PRJ0073500,6/6/2025,Green,,,,,,,,100,100,100,100,76,VERDADERO,Pending PROCS-NEO Interface (FCM)
+PRJSTAT0075391,FCS - GROUP - WW - IT Consignment Deployment,PRJ0075002,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,FIS EMEA: 4 new kick-off on 6-Jun
+PRJSTAT0075373,Jinhua FAS creation Infra project,PRJ0075109,6/6/2025,Green,Green,Green,Green,Green,Green,Green,,0,0,0,0,0,VERDADERO,Ongoing
+PRJSTAT0075384,Connector ProMISE - PLM4FCE,PRJ0074311,6/6/2025,Yellow,Green,Green,Yellow,Green,Green,,,,,,,,VERDADERO,Communication pending about ProMISE governance decision on 15th May to stop Interface ProMISE - PLM4FCE activities
+PRJSTAT0075367,POC - PLM for CAID,PRJ0075082,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,CW  23 Update 
+PRJSTAT0075380,SIENA Global project management,PRJ0075388,6/6/2025,Yellow,,,,,,,,,,,,,VERDADERO,6 countries have offocial Go. Busy negotiating central contract for 3rd party support.  Yellow because: 1 - Spain has difficulties to involve the sites 2 - Mexico: plant don't have respources + Pueb Inj timeline very short
+PRJSTAT0075387,FCS - FIS - PUE - New BAU Creation Plant 2749 under ME25 ,PRJ0075424,6/6/2025,Yellow,,,,,,,,100,0,0,0,0,VERDADERO,New DUNS impact project complexity: new EDI connections are required
+PRJSTAT0075392,NAO - FIS - MCT - MATERIACT Phase 2 - Overall,PRJ0074168,6/6/2025,Yellow,,,,,,,,,,,,,VERDADERO,Local IT agreement not signed
+PRJSTAT0075389,NAO FCM Supplier Consignment Project,PRJ0075326,6/6/2025,Yellow,,,,,,,,,,,,,VERDADERO,Project ON-HOLD. Purchasing in on-going commercial negotiations with supplier involving all FCM plants. 
+PRJSTAT0075390,NAO FIS Supplier Consignment Project,PRJ0075327,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,Go Live May 19 - Post Go Live follow-up meeting WK24
+PRJSTAT0075360,FAS Jinan 2744 Plant FCS Rollout Project,PRJ0075478,6/6/2025,Green,Green,Green,Green,Green,Green,Green,Green,100,100,88,0,0,VERDADERO,the key user training is on going
+PRJSTAT0075394,JIT/TCO -FCM -LOU- Master Data Interface,PRJ0074638,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,Pending Validation on PROCs CU165
+PRJSTAT0075362,Wuhu 2669 DMC project deployment,PRJ0075311,6/6/2025,Green,,,,,,,,96,0,0,0,0,VERDADERO,OK
+PRJSTAT0075371,TMS - Test Management System,PRJ0072686,6/6/2025,Green,Green,Green,Green,,,,,100,89,94,96,0,VERDADERO,GANTT modification validated and to be put in production by end of June
+PRJSTAT0075369,TOLSYS : Software to Manage stack-ups,PRJ0074455,6/6/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,CW 23 update
+PRJSTAT0075386,PULSE (We+ Integrated PMS tools),PRJ0074775,6/6/2025,Green,Yellow,Yellow,Yellow,Green,Green,Green,Green,100,86,86,91,0,VERDADERO,GR3 Go decision
+PRJSTAT0075382,Maya replacement (Blender),PRJ0075084,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,The maya software uninstallation is going to be scheduled according to the provided users list. 
+PRJSTAT0075370,"TCO - FCM - PAMPLONA - VW - E12019B (Lines BF260, BF365, BF155, BF170A, BF250, FFV345 & Downpipes) from Kassel - Hot End",PRJ0074881,6/6/2025,Yellow,,,,,,,,100,100,100,97,0,VERDADERO,"• BF250 – Machines validated in CW22, manual packaging and relabeling delayed to CW23 • BF260 – Pending manual packaging & relabeling delayed to CW22  • BF365 – Machine connection postponed without a fixed delivery date. Packaging station to be used "
+PRJSTAT0075377,FCS Plant Maintenance & Mobility - FIS Arges - PM+M rollout plant 1826,PRJ0075195,6/6/2025,Green,,,,,,,,100,100,100,0,100,VERDADERO,Go / NoGo decision ->  GO
+PRJSTAT0075372,TCO - FCM - TERNI - JEEP - E10089K transfer from Socheaux,PRJ0075110,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,• Machines validation  1. Welding >> Delayed to CW24 • MPT to be delayed from CW27 to CW30 (To be confirmed)
+PRJSTAT0075393,FCS Rollout New BAU - FAS - SJM PT01-2672   WAVE 2: Manufacturing,PRJ0075352,6/6/2025,Green,,,,,,,,100,93,0,0,0,VERDADERO,Phase 2b (BUILD & TEST) in progress
+PRJSTAT0075365,FCS Customer Flow - FAS WLB Frames: EDI connection customer NOBO,PRJ0075504,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,Work in progress
+PRJSTAT0075368,3DExperience 2025 study,PRJ0075354,6/6/2025,Green,,,,,,,,,,,,,VERDADERO,CW 23 update
+PRJSTAT0075385,FCS Customer Flow - FAS WLB Pneumatic :  Flows with Forvia Sandouville and Sabelty Italy,PRJ0075256,6/6/2025,Yellow,,,,,,,,,,,,,VERDADERO,Status Sabelt and Status Sandouville
+PRJSTAT0075376,FCS Rollout  New CC – FIS MTA FR82 2747 – CYCLADES  Wave 1: FICO     ,PRJ0075483,6/6/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,SAP set up on going
+PRJSTAT0075374,IT Infra Project For Changchun GBS Relocation,PRJ0070252,6/6/2025,Green,Green,Green,Green,Green,Green,Green,,96,100,100,100,100,VERDADERO,Ongoing
+PRJSTAT0075354,JIT/TCO -FCM -SIL - Master Data Interface,PRJ0074632,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Under testing with BOM aligment
+PRJSTAT0075325,TCO - FCM - ALLENJOIE FHS - STELLANTIS - XL694 TANK - New flow,PRJ0075087,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,- TCO test in progress - Batch homologation W27
+PRJSTAT0075343,TCO - FIS - PALMELA - VW210 IP FG / VW216 IP FG / VW386 IP HF,PRJ0074436,6/5/2025,Yellow,,,,,,,,100,100,97,91,0,VERDADERO,• Phases 1&2 >> 86% achieved Details below in the machines & workstations chapter No Risk for MPT in CW23 • MPT & Go Live for phases 1 & 2 planned for CW23  1. GR3 in RED 89% as it's pending Gluing Weight Control & Covering 
+PRJSTAT0075351,TCO - FCM - SJI - STELLANTIS FUJI CANNING,PRJ0075303,6/5/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,Project on going - Hardware installation planned
+PRJSTAT0075342,OCR CONTROL - FCM - BAVANS,PRJ0074390,6/5/2025,Yellow,Green,Green,Green,Green,Yellow,,,,,,,,VERDADERO,1. (initial) MPT / RUN@Rate performed in W07-2025 2. mLEAN Bug investigation in progress 3. PIINK software extension in test (with open issue) & in progress 4. TSI introduction of the development (11/06) & final quotation for PROCS will follow
+PRJSTAT0075328,FCS Rollout PS Module (WBS) +CATs&TEMPO - South Africa,PRJ0075330,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,WAR #9- Project On-going
+PRJSTAT0075322,FOR_Product data feed tool for IAM customers,PRJ0075358,6/5/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,Pending PUR completion and Technical Kick-off planned 11.06.2025
+PRJSTAT0075334,TCO - FCM - PISEK - DAIMLER - M254 HE Line1-2-3 ( D569B - E3149E ),PRJ0074689,6/5/2025,Green,Green,Green,Green,Green,,,,,,,,,VERDADERO,"Line 2 - communication tested, production test CW24"
+PRJSTAT0075357, Project name : TaxCube ,PRJ0075275,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Project in progress and on track
+PRJSTAT0075336,FOR_Resource virtualization for automatic door triggering HRO Ghiroda & HRO Arad ,PRJ0075314,6/5/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,ok
+PRJSTAT0075318,Shenyang FHS CLD TCO for TYPE Ⅳ 400L TANK,PRJ0075164,6/5/2025,Green,,,,,,,,97,85,0,0,0,VERDADERO,PROCS under configuration
+PRJSTAT0075327,TCO - FIS - ORHANGAZI - DACIA - IP K1320,PRJ0075127,6/5/2025,Green,Green,,,,,,,100,100,0,0,0,VERDADERO,Configuration to be started
+PRJSTAT0075352,TCO - FIS - PBC - TESLA - X - S Migration to PROCS,PRJ0075233,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,FD and FA files needs to be loaded in SAP
+PRJSTAT0075359,JIT/TCO -FIS -PFS- Master Data Interface,PRJ0074637,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Testings are ongoing
+PRJSTAT0075348,ITOP - FIS - MCT - Greenfield Materiact Dallas Plant,PRJ0075377,6/5/2025,Yellow,,,,,,,,86,0,0,0,0,VERDADERO,6/5/2025 Server room construction has began on June 2
+PRJSTAT0075337,JIT - FIS - PARDUBICE - BMW - G72/G70LCI 2nd,PRJ0074118,6/5/2025,Green,Green,Green,Green,,,,,100,100,100,100,0,VERDADERO,BOM being checked for some partnumbers; Masterdata ongoing
+PRJSTAT0075353,TCO - FCM - QRJ - FORD P703 GPF,PRJ0075466,6/5/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,Project on going - Under Technical Analysis
+PRJSTAT0075335,TCO - FCM - MLADA - VW -  (C-MAR) 1.5 TSI Line 1 + Line2 (Kassel),PRJ0074973,6/5/2025,Green,Green,Green,Green,,,,,,,,,,VERDADERO,"Line 1 +2 tested, Go-live on CW24"
+PRJSTAT0075350,JIT/TCO -FIS -VDR- Master Data Interface,PRJ0074636,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,ECC will be load the FD and FA files in SAP.
+PRJSTAT0075349,JIT/TCO -FIS -PUE - Master Data Interface,PRJ0074635,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Testing with  files FA and FD from FC2 on Test Server for KM74.
+PRJSTAT0075344,EWM - FIS - ARGES - INBOUND PROCESS,PRJ0074770,6/5/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,CW 23
+PRJSTAT0075326,TCO - FCM - MLADA- VW - MAR Downpipes MHEV (E11310B) Line1 - Hot End,PRJ0075485,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Kick-Off done CW21 Blueprint Validation CW24
+PRJSTAT0075340,TCO - FCM - BRAGANCA - RSA - SM12L Mufflers,PRJ0074183,6/5/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,• 2 Labeling stations validated and running in CW22 • Project acceptance signature by @CARVALHO Luis planned for CW25 • Project closure planned for CW25
+PRJSTAT0075358,TCO - FCM - SJI - STLA/CANNING 4017,PRJ0075559,6/5/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,KickOff with Plant - BBP in progress
+PRJSTAT0075345,TCO - FIS - PALMELA - VW386 IP FG,PRJ0074437,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Go Live done in CW23 2025 - No more machines planned in this line
+PRJSTAT0075324,FCS Customer flow - FCM - Augsburg - Jaguar Land Rover EDI connection,PRJ0075293,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,follow up w/o PM (sick-leave)
+PRJSTAT0075323,EWM - FIS - FRADLEY,PRJ0075190,6/5/2025,Yellow,,,,,,,,100,0,0,0,0,VERDADERO,NO RFC Needed! Visa could jeopardize SOP QM Lite on track 
+PRJSTAT0075347,JIT/TCO -FIS -MTE - Master Data Interface,PRJ0074631,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,"Project on going, no issues or risks."
+PRJSTAT0075341,TMS Materi'Act,PRJ0075152,6/5/2025,Yellow,,,,,,,,,0,0,0,0,VERDADERO,CAR validated but additional requirements from Materi'Act pending answers from Bassetti
+PRJSTAT0075319,Changzhou FIS W04 IP TCO,PRJ0075503,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Preparation of shopfloor Infra & Machine PLC
+PRJSTAT0075329,FCS Supplier Flow - FIS Pretoria - External Warehouse outsourcing,PRJ0074548,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,MoM 
+PRJSTAT0075346,TCO - FCM - MLADA - VW - CANNING - DOWNPIPES - HOT END,PRJ0075310,6/5/2025,Green,,,,,,,,100,100,100,,0,VERDADERO,War CW23
+PRJSTAT0075320,Zhengzhou FAS Chery T1N IJCore TCO Project,PRJ0075163,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,integration testing
+PRJSTAT0075332,TCO - FIS - MLADA BOLESLAV - BMW - UKL LCI TCO  - IP,PRJ0075360,6/5/2025,Green,,,,,,,,96,0,0,0,0,VERDADERO,Blueprint in progress
+PRJSTAT0075321,Lingang FIS JIS,PRJ0072729,6/5/2025,Green,,,,,,,,100,100,100,100,100,VERDADERO,ok
+PRJSTAT0075330,EREPLENISHMENT - FIS - HLOHOVEC,PRJ0074342,6/5/2025,Yellow,Green,,,,,,,,,,,,VERDADERO,Delay due to MII version -> update of MII on CW24
+PRJSTAT0075316,Changchun Frame IJCore TCO Deployment,PRJ0074787,6/5/2025,Green,,,,,,,,,,,,,VERDADERO,Weekly Review WK23.2025
+PRJSTAT0075338,TCO - FIS - PARDUBICE - BMW - G72/G70LCI,PRJ0074119,6/5/2025,Yellow,Green,Green,Green,,,,,100,100,97,83,0,VERDADERO,Testing ongoing; PLC programming not finished; Masterdata features ongoing
+PRJSTAT0075339,TCO - FCM - CAPE TOWN - FORD - T6 B1.6 U704,PRJ0075038,6/5/2025,Yellow,Green,Green,Green,Green,,,,,,,,,VERDADERO,"1. Kickoff W51-2024 & PROCS configuration completed in W06 2. TCO readiness expected W24-2025 (tbc) -> W23-2025 (tbc or W24-2025) (Sébastien not available W25-2025) 3. OEM program currently ""ON HOLD"", but test are going on"
+PRJSTAT0075317,Qingdao FAS Frame T28 TCO IJCoreNG,PRJ0074230,6/5/2025,Green,,,,,,,,91,96,93,0,0,VERDADERO,on-hold
+PRJSTAT0075333,TCO - FCM - PISEK - VOLVO - E11572C,PRJ0075165,6/5/2025,Green,Green,Green,Green,,,,,,,,,,VERDADERO,On-hold -> machines expected on CW28
+PRJSTAT0075331,JIT - FIS - MLADA BOLESLAV - BMW - UKL LCI JIS - IP,PRJ0075359,6/5/2025,Green,,Green,,,,,,100,0,0,0,0,VERDADERO,Orders for servers in progress
+PRJSTAT0075313,NAO - Group - Bright Program - PLC / IT integration ,PRJ0074871,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Meeting with program rescheduled
+PRJSTAT0075307,TCO – FCM - ALMUSSAFES - FORD - C482 Welding line transfer from Pamplona,PRJ0075456,6/4/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,• Blueprint planned to be finished and validated in CW24 • POs (T-SYSTEMS) approved in CW21
+PRJSTAT0075282,Roll out FCS to FIS Tochigi plant 2574,PRJ0074281,6/4/2025,Green,,,,,,,,100,100,94,82,0,VERDADERO,Start Serial life production 
+PRJSTAT0075294,E-REPLENISHMENT - FIS - GORZOW II,PRJ0073845,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,"On track with planning, but go live planned for week 27 "
+PRJSTAT0075309,FCS Customer Flow - FCE Paris Tech – Triangular flow with Volvo Goteborg and HU04,PRJ0075486,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Regular meeting
+PRJSTAT0075289,WMS - FAS - SALE - RC SOFT for dynamic warehouse,PRJ0075538,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,VM installed 
+PRJSTAT0075310,FCS Customer Flow - FCE Paris - Triangular Flow  STELLANTIS AUTO SAS,PRJ0075324,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Regular meeting
+PRJSTAT0075306,FCS Customer Flow - FCE Paris - Customer EDI setup with Scania Brazil,PRJ0075020,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Demand Integrated waiting 1st Delivery
+PRJSTAT0075305,FCS Customer Flow -FIS Kenitra-STO EX10 implementation,PRJ0075430,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Open Point - No prices can be carried out for Proforma Invoice
+PRJSTAT0075302,FCS Customer Flow – FCM Theillay - Daimler Truck aftersales ,PRJ0075532,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,setup edi in progress based of master data identified. point to clarify: customer PO & prices
+PRJSTAT0075288,TCO - FIS - KENITRA - STELLANTIS - F2X IP,PRJ0074858,6/4/2025,Green,Green,Green,Green,Green,Green,Green,Green,92,94,0,0,0,VERDADERO,"Blueprint done, pending validation"
+PRJSTAT0075308, implement Warehouse Management System - Rayong FCM,PRJ0075351,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Key User training 
+PRJSTAT0075285,JIT - FIS - TARAZONA - MERCEDES - VAN.EA - Door Panel Sequencing,PRJ0075449,6/4/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,all POs launched and pending to finish bleuprint
+PRJSTAT0075304,TCO - FIS - ABRERA - VW210 IP,PRJ0075198,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,1. Kickoff planned for CW27 2025  2. TCO with machines ready planned for CW44 2025 3. Go Live planned for CW11 2026 (MPT in CW11 2026) 
+PRJSTAT0075314,NAO – Group – Bright Program – MXH – Solution Selection Process,PRJ0075041,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Supplier's questionary publishment 
+PRJSTAT0075293,EREPLENISHMENT - FIS - TARAZONA,PRJ0072393,6/4/2025,Yellow,Green,Green,Green,Green,Green,Green,Green,94,97,97,97,0,VERDADERO,2 blocking issues for project closure.  Next meeting on week 25
+PRJSTAT0075295,WEBPICKING - FIS - GORZOW II,PRJ0075277,6/4/2025,Yellow,,,,,,,,,,,,,VERDADERO,BLOCKING ISSUE found:  Needed to have 2 different storages location for the same component.  A new RFC must be created to add this functionality
+PRJSTAT0075287,FCS Customer Flow - FCM Fradley - JLR SAP S4 Hana| EDI Onboarding| Business Partner 10311,PRJ0074419,6/4/2025,Yellow,,,,,,,,,,,,,VERDADERO,"Forvia systems OK, but on going issue with JLR remain."
+PRJSTAT0075284,Request new site infrastructure for FAS Thailand,PRJ0073369,6/4/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,Waiting for firewall implement
+PRJSTAT0075298,TCO - FIS - ORHANGAZI - RENAULT - R1312 IP,PRJ0075064,6/4/2025,Green,Green,,,,,,,100,100,0,0,0,VERDADERO,TSI Technical analysis ongoing; Configuration to be started
+PRJSTAT0075286,FCS QMLite - FIS Fradley - Implementation of quality inspection at reception,PRJ0075497,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,"Cusstomising completed , "
+PRJSTAT0075311,TCO - FCM - BRAGANCA - RENAULT - E3253D HR12 & E10801 HR18,PRJ0075272,6/4/2025,Green,,,,,,,,100,100,100,94,0,VERDADERO,"• HR12 & HR18 Machines validated in CW21, pending Allan Bradley to planned for CW22 & beginning of CW23 • HR18 MPT done successfully in CW22 • HR12 MPT & Go Live (without rework stations as it's not blocking for MPT) planned for CW27"
+PRJSTAT0075301,FCS  Customer Flow - FCM Augsburg -  DMND0027550 DMND0027551 DMND0027552   AUG--> VAG group.,PRJ0074947,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Forvia systems working as expected.  Possible demand in two weeks. Triangular flow may be discussed agin but not in this project's scope
+PRJSTAT0075292,JISPOS - FAS - VILLERS LA MONTAGNE - RENAULT - XDD,PRJ0074254,6/4/2025,Yellow,,,,,,,,97,96,97,100,95,VERDADERO,3 blocking point to close the project.  Expected around week 27. 
+PRJSTAT0075297,FCS Customer Flow - FCM Cape Town - Bracket Flow change - CAP to SEZ whse to IVECO Whse to FORD,PRJ0075531,6/4/2025,Green,,,,,,,,,,,,,VERDADERO,Follow up mtg 2 
+PRJSTAT0075315,ITOP - GIT - NAO - Server Room Remediation Project,PRJ0075230,6/4/2025,Yellow,,,,,,,,,,,,,VERDADERO,Drafting
+PRJSTAT0075299,TCO - FIS - ORHANGAZI - RENAULT - B1318,PRJ0074165,6/4/2025,Green,Green,Green,Green,,,,,100,100,100,97,0,VERDADERO,Production is live using TCO - Small adjustments being done
+PRJSTAT0075283,Preactor/NEO  implementation request for FCM KR JA Plant,PRJ0075193,6/4/2025,Green,,,,,,,,100,100,100,94,89,VERDADERO,GR4 meeting
+PRJSTAT0075290,FOR_Automatized entrance software for trucks,PRJ0075469,6/4/2025,Yellow,,,,,,,,0,0,0,0,0,VERDADERO,CZBKV Qtir - budget approval in process
+PRJSTAT0075277,NAO - FCE - SJdR - NISSAN - iTAC implementation - Overall ,PRJ0073464,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,Waiting for the GoLive of P13C final assembly line to close the project
+PRJSTAT0075276,NAO – Group – Bright Program – MXH – Onboarding App,PRJ0074966,6/3/2025,Green,,,,,,,,95,100,100,100,100,VERDADERO,Sprint 5 Presented
+PRJSTAT0075265,TCO - FCM - ALLENJOIE FHS - Tank XL,PRJ0074556,6/3/2025,Yellow,Green,Green,Green,Green,Yellow,,,100,100,100,63,0,VERDADERO,"1. Industrial milestones delayed (w/o customer impact) 2. Sniffing (TCO test expected (W19 w/o Proof and after W23-2025 with Proof), Proof (TCO test W23-2025 expected)"
+PRJSTAT0075280,NAO - Group - Bright Program - MXH - Applications Access Control (Hella & Faurecia),PRJ0075339,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,Creating the proper Question that will be validate user for access server 
+PRJSTAT0075275,FCS Customer Flow – FIS BSO - Opel Automobile GmbH Werk Eisenach ,PRJ0075507,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,implementation in progress . Planned Go live date: 10.06.2025
+PRJSTAT0075273,GVS - global validation system,PRJ0074016,6/3/2025,Yellow,,,,,,,,,92,100,0,0,VERDADERO,Bugs to be corrected and plan not clear right now. 63 k€ additional costs to be discussed - Next years costs higher than expected
+PRJSTAT0075271,FCS Customer Flow - FCM Port Elizabeth - Change Direct Flow to Consignment to Ford,PRJ0075128,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,As per Sales Manager - Follow mtg with Plant & FORD scheduled for 12.06.2025 
+PRJSTAT0075278,FCS Customer Flow -FCM Herrenberg:  Customer Mercedes Benz is changing the service provider and unloading point (no JIT Flow),PRJ0075228,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,Flow is runnung - Project to close with one open point.
+PRJSTAT0075281,FOR_SAP - FLG - HAM - L SMT Plant (PL 9) - Rollout,PRJ0074877,6/3/2025,Green,,,,,,,,100,94,100,100,0,VERDADERO,Closure and PostGoLive Phase
+PRJSTAT0075270,FCS Customer Flow - FCM Cape Town- Change Direct Flow to Consignment to Ford,PRJ0075214,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,Pending FORD Feedback ... As per Sales Manager - Thercia Senakal - a Follow mtg with FORD is scehduled for the 12.06.2025
+PRJSTAT0075266,Deployment  NEO for ANH,PRJ0075560,6/3/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,"created, user training"
+PRJSTAT0075267,FCS  Customer Flow – FCM -  Vigo - Transfer from JIT Flow Madrid (1130) to Vigo FCM (1132),PRJ0075459,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,Follow UP 2
+PRJSTAT0075268,FCS Customer Flow - FIS Sale -TESLA spare parts ,PRJ0075488,6/3/2025,Green,,,,,,,,,,,,,VERDADERO,"Finishing EDI customizing for ASN ""archived"""
+PRJSTAT0075258,TCO-Renault R1312 frames-Quatro Barras-FAS,PRJ0075317,6/2/2025,Yellow,,,,,,,,,,,,,VERDADERO,on-going
+PRJSTAT0075253,JIT - FIS - SLN - INS to IJCore migration - JIS,PRJ0075429,6/2/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,"SQL Costs agreed with ITOP, to prepare timeline and kick of proyect this week"
+PRJSTAT0075244,TCO - FCM - THEILLAY - CLAAS -  TOIT K09,PRJ0074027,6/2/2025,Green,Green,Green,Green,Green,,,,100,100,100,100,0,VERDADERO,Tests in progress - 1 MAchine Remaining - Waiting date of migration of servers by Plant
+PRJSTAT0075248,TCO - FCM - ALLENJOIE FHS - GEN2 New automated production line,PRJ0073962,6/2/2025,Yellow,,,,,,,,100,100,0,0,0,VERDADERO,1. Batch Homologation & order Stellantis postponed 2. New planning indus to be provided  3. Blueprint Tank & proof GEN1 HK0 (High capacity) Done 
+PRJSTAT0075255,FCS Customer Flow - FAS SJM Frames -CUSTOMER EDI TO BE CREATED C099055981,PRJ0075376,6/2/2025,Yellow,,,,,,,,,,,,,VERDADERO,Go Live
+PRJSTAT0075262,JIT/TCO-Nissan P02H-Porto Real-FAS,PRJ0075318,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,on-going
+PRJSTAT0075242,TCO - FAS - WALBRZYCH FRAMES - VOLVO - SPA2,PRJ0075431,6/2/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,Collect of data in progress
+PRJSTAT0075233,TCO - FCM - KOCAELI - RENAULT - SM12L  E11599C,PRJ0075168,6/2/2025,Green,,,,,,,,100,100,94,,0,VERDADERO,Testing still ongoing 
+PRJSTAT0075239,DMC - FAS - FLERS EN ESCREBIEUX,PRJ0075367,6/2/2025,Green,,,,,,,,100,58,0,0,0,VERDADERO,Formation non planifiée faute d'implication des KU - Modification des programmes toujours bloquée
+PRJSTAT0075245,FCS Customer flow - FAS Pisek - X1325 TWINGO PSK → Renault Novo Mesto,PRJ0075435,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,6
+PRJSTAT0075260,JIT/TCO-STLA 521 MCAII-Goiana-FIS,PRJ0075471,6/2/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,on-going
+PRJSTAT0075247,FOR_Simulation Process and Data Management,PRJ0075004,6/2/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,MVP 1.0 system set-up
+PRJSTAT0075256,TEO Brasil,PRJ0072252,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,"Execution of cutover and master data of plants 1017, 1653, 1870 and 2125"
+PRJSTAT0075252,New PLM (Phase 1),PRJ0074680,6/2/2025,Green,Green,Green,Yellow,,,,,89,0,0,0,0,VERDADERO,Validate solution in progress  (Status W21)  - New PLM becomes ORION
+PRJSTAT0075251,MONTREAL - carve out FAC,PRJ0075040,6/2/2025,Green,,,,,,,,90,100,88,,0,VERDADERO,W20-W22
+PRJSTAT0075250,FCS Customer flow - FCM Kocaeli - EDI Conection / JIS flow FCM Izmit > Sequencer > Renault,PRJ0075243,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,.
+PRJSTAT0075238,FCS Customer Flow -FCM  Pamplona - Transfer JIT from FCM Pedrola,PRJ0074489,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,Project to be closed
+PRJSTAT0075240,FCS Customer Flow - FCM Bragança - New flow Client BMW,PRJ0075130,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,Waiting grenn light EDI Onboarding from customer
+PRJSTAT0075249,FCS Supplier Consignment Flow - FCM  BG  Pilot BASF,PRJ0074601,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,.
+PRJSTAT0075259,JIT/TCO-STLA 226 MCAII-Goiana-FIS,PRJ0075320,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,on-going
+PRJSTAT0075237,FCS Customer Flow -  FAS WLB Frames: ADIENT EDI ConnectionCreation,PRJ0075489,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,EDI connection WIP
+PRJSTAT0075232,TCO - FCM - AUGSBURG - VW - KASSEL takeover (4 demands),PRJ0074970,6/2/2025,Yellow,,,,,,,,100,0,0,0,0,VERDADERO,PLC Planning late 
+PRJSTAT0075263,NAO – Group – Bright Program – MXH – Data Management 5s Data,PRJ0074968,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,Project close
+PRJSTAT0075246,FOR_Mobile Maintenance BD Electronics/Lighting,PRJ0075329,6/2/2025,Green,,,,,,,,100,100,100,0,0,VERDADERO,HCL key user testing it's about to start.
+PRJSTAT0075241,FOR_Pricelab Forvia – Hella onboarding,PRJ0075006,6/2/2025,Green,,,,,,,,100,100,0,0,0,VERDADERO,Development started
+PRJSTAT0075236,TCO - FCM - KOCAELI - RENAULT - E10801D-HR 18,PRJ0075304,6/2/2025,Yellow,,,,,,,,100,0,0,0,0,VERDADERO,WS received - IP list pending - PO to t-Systems pending PT week27 
+PRJSTAT0075243,TCO - FCM - MESSEI - STELLANTIS - E10089E ICEMI4(WEELDING+ LEAKTEST+PRINTER),PRJ0075012,6/2/2025,Green,Green,Green,Green,Green,,,,,,,,,VERDADERO,MPT Done Succesfully - Migration to new servers 10/06
+PRJSTAT0075257,TCO RSA R1312 - Curitiba - FAS,PRJ0074265,6/2/2025,Yellow,,,,,,,,100,100,100,0,0,VERDADERO,"on-going, pending tests in 3 PLCs"
+PRJSTAT0075264,NAO – Group – Bright Program – MXH – MII Patch Tracking,PRJ0074967,6/2/2025,Green,,,,,,,,,,,,,VERDADERO,Power App
+PRJSTAT0075261,JIT/TCO-STLA 598 MCAII-Goiana-FIS,PRJ0075319,6/2/2025,Yellow,,,,,,,,,,,,,VERDADERO,on-going
+PRJSTAT0075231,TCO - FIS - HLOHOVEC - BENTLEY -  BY646 flow setup,PRJ0075067,6/1/2025,Green,,,,,,,,,,,,,VERDADERO,"Project created, kick-off to be rescheduled, missing TCO key user -> Andrej Radosovsky. will act as TCO key-user"
+PRJSTAT0075228,TCO - FIS - KOSICE - BENTLEY - BY646  ,PRJ0075066,6/1/2025,Green,,,,,,,,90,0,0,0,0,VERDADERO,"Kick-off done, GR1 OK (90%)"
+PRJSTAT0075227,TCO - FIS - KOSICE - VW - SK336 Pads&GB,PRJ0072517,6/1/2025,Green,,,,,,,,94,100,94,97,0,VERDADERO,"OK, Project to be closed cw25/2025"
+PRJSTAT0075226,JIT - FIS - MLADA BOLESLAV - BMW - EXTENSION UKL,PRJ0074406,6/1/2025,Green,,,,,,,,96,96,96,97,0,VERDADERO,Go-Live done successfully
+PRJSTAT0075229,TCO - FIS - TRNAVA - STELLANTIS - CC2x/OV24 IP,PRJ0073370,6/1/2025,Green,,,,,,,,97,100,97,97,0,VERDADERO,"TCO running as expected, SOP for RHD postponed to cw19/2025"
+PRJSTAT0075230,TCO - FIS - HLOHOVEC- STELLANTIS - CC2x/OV24 IP,PRJ0072518,6/1/2025,Green,,,,,,,,97,100,94,96,0,VERDADERO,"TCO running as expected, SOP for RHD succesfull (cw19/2025) "
+PRJSTAT0075185,Atualização FCS x Notas Técnicas,PRJ0074508,5/30/2025,Yellow,,,,,,,,,,,,,VERDADERO,Waiting for SAP feedback
+PRJSTAT0075209,FCS - FAS - SPW  - ME28 - GMD Implementation,PRJ0074870,5/30/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,Month end close to start Friday 30th
+PRJSTAT0075167,wuhu New site create for T18 FAS Project,PRJ0074287,5/30/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,Update change record
+PRJSTAT0075169,FOR_Pro4B contract review workflow improvement 3.0,PRJ0074994,5/30/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,UPDATING
+PRJSTAT0075163,Preactor/Neo rollout Wuhan FIS 1922,PRJ0075173,5/30/2025,Green,,,,,,,,100,100,100,0,0,VERDADERO,Trial Run
+PRJSTAT0075220,EWM QB Roll-out,PRJ0075323,5/30/2025,Green,,,,,,,,100,0,0,,0,VERDADERO,BBP development - Done
+PRJSTAT0075225,TCO - FIS - PBC - Lucid Gravity DP,PRJ0074166,5/30/2025,Yellow,,,,,,,,100,100,84,20,0,VERDADERO,"Ongoing Integration, slower then planned"
+PRJSTAT0075223,TCO - FCM - LOU - Ford - P702 MY26,PRJ0075355,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,Configuration underway.  Project ongoing.
+PRJSTAT0075166,Rayong FTM FIS Upgrade IJCoreOG  to IJCoreNG,PRJ0073648,5/30/2025,Green,,,,,,,,100,100,89,0,0,VERDADERO,updating
+PRJSTAT0075178,FCS Customer Flow – FCM Bragança – Customer VW C006000000,PRJ0075552,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,Kick off 
+PRJSTAT0075170, E-supply retrofit project,PRJ0074625,5/30/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,2025/5/30
+PRJSTAT0075210,NAO - Group - Bright Program - MXH - Support Chain Assistant,PRJ0074809,5/30/2025,Green,,,,,,,,100,100,100,0,0,VERDADERO,Project Ongoing - Handover and Tests ongoing
+PRJSTAT0075183,Migrate Importsys to cloud,PRJ0074682,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,Hypercare
+PRJSTAT0075221,NAO - GBS - MXH - COFIDI 4.0 Migration ,PRJ0074294,5/30/2025,Green,Green,,,,,,,,,,,,VERDADERO,PDCA for Go Live in progress / Configuration on production server on going
+PRJSTAT0075198,TCO - FIS - TARAZONA - VW216 IP,PRJ0075364,5/30/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,1. Kickoff planned for CW25 2025  2. TCO system running with machines for PT in CW51 2025 3. Go Live planned for MPT for CW23 2026 
+PRJSTAT0075218,MII/ME SP22 Technical upgrade Dev & Pilot,PRJ0075000,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,Week 19/20(20/05-27/05)
+PRJSTAT0075162,Chengdu plant Preactor/ NEO deployment(1924 & 2293),PRJ0075172,5/30/2025,Green,,,,,,,,100,100,100,0,0,VERDADERO,Golive support and KPI follow up
+PRJSTAT0075180,FCS Supplier Flow – Non-Consignment -FIS MateriAct - Triangular flow APM-MTA-Ourense,PRJ0075487,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,EDI Setup done
+PRJSTAT0075204,ITOP - GIT - NAO - Downgraded Modes for IT Applications,PRJ0075455,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,Progressing with the flow charts and critical processes. Adding FLH to the list
+PRJSTAT0075219,New consignment flow  ,PRJ0075177,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,BBP and developments on going
+PRJSTAT0075187,DRC module implementation,PRJ0075210,5/30/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,OSS Notes application on going
+PRJSTAT0075184,Correção de cálculo de retenções,PRJ0075124,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,Hypercare
+PRJSTAT0075224,NAO – Group – Bright Program – MXH – Goods Receipt,PRJ0074987,5/30/2025,Green,,,,,,,,,,,,,VERDADERO,NAO – Group – Bright Program – MXH – Goods Receipt
+PRJSTAT0075161,NAO - NEO & PREACTOR - Fraser XFQ - FIS,PRJ0075448,5/29/2025,Yellow,Yellow,Yellow,,,,,,90,0,0,0,0,VERDADERO,Project on-hold due lack of hardware 
+PRJSTAT0075153,TCO - FAS - HJZ - NISSAN - H60E to IJCore NG,PRJ0074659,5/29/2025,Yellow,,,,,,,,100,89,0,0,0,VERDADERO,"Servers configuration is in progress, any delay could impact the project Go live."
+PRJSTAT0075141,FCS rollout VIM SPOTLINE BOT - GBS PT & PL entities,PRJ0075269,5/29/2025,Green,,,,,,,,,,,,,VERDADERO,GoLive done for  PL scopes
+PRJSTAT0075118,FOR_Installation and configuration of Sharpen360 Trace version 6 Assessment Tool on/in FORVIA HELLA server/VM,PRJ0075169,5/28/2025,Green,,,,,,,,95,100,100,100,0,VERDADERO,Application ready
+PRJSTAT0075098,FCS Customer Flow – FCM Terni – New Flow with C010000037 FTP Torino,PRJ0075465,5/27/2025,Green,,,,,,,,,,,,,VERDADERO,Pending to check ASN with the new outbound.
+PRJSTAT0075101,TCO – ZE – JANGAN – HKMC QZ Tank Relocation,PRJ0070243,5/27/2025,Green,,,,,,,,97,0,0,0,0,VERDADERO,W22
+PRJSTAT0075089,FCS Customer flow - FCM Craiova -  Flow  with Krajugujevac STELLANTIS ,PRJ0075374,5/27/2025,Green,,,,,,,,,,,,,VERDADERO,MoM -  [FCS Customer Flow] [FCM Craiova: EDI with Krajugujevac STELLANTIS Serbia] [PRJ0075374  - DMND0031026 ] -  Follow up [#4]  [27.05.2025]
+PRJSTAT0075064,CHANGZHOU FAS BYD New Plant,PRJ0074308,5/26/2025,Green,,,,,,,,100,100,95,100,0,VERDADERO,ok
+PRJSTAT0075074,FOR_RACE@EA1,PRJ0075155,5/26/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,Composite roles implementation in progress
+PRJSTAT0075075,FOR_RACE@HR Pilot,PRJ0074661,5/26/2025,Green,,,,,,,,100,100,100,100,0,VERDADERO,OI implementation in progress
+PRJSTAT0075053,TCO - FIS - PFS - Lucid Gravity DP,PRJ0074167,5/23/2025,Yellow,,,,,,,,100,96,81,0,0,VERDADERO,"MPT is past due,  unit test still in progress, for cooling, pokayoke and punching machines - cooling is missing a cable to connect the PLC"
+PRJSTAT0074991,FCS Customer flow - FAS Pisek - Porsche - Bentley Motors  C006000054,PRJ0075222,5/23/2025,Green,,,,,,,,,,,,,VERDADERO,MoM - Customer flow: FAS Pisek Porsche - Bentley Motors C006000054 1067 Pisek [follow up #9]: PRJ0075222 - DMND0029914 -  20.05.2025
+PRJSTAT0074970,TCO - FIS - PFS - STELLANTIS - KM74,PRJ0075065,5/22/2025,Yellow,,,,,,,,100,100,100,85,0,VERDADERO,"Full test performed at line, MPT ran without traceability"
+PRJSTAT0074857,Chemicals project Management Phase 1,PRJ0075096,5/16/2025,Green,,,,,,,,100,100,0,0,0,VERDADERO,"Data provision for UAT, SSO login, Interface set up (API consumption)"
+PRJSTAT0074862,EWM - Upgrade to S/4,PRJ0074861,5/16/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,"PHASE 1 (ANALYSIS) COMPLETED, INITIATION OF PHASE 2"
+PRJSTAT0074768,"TCO - FCM - MLADA - VW - MAR (L-MAR) 1.5 TSI HEV / PHEV Line 1, Line 2, Line 3, Line 4 (E11194B) - Hot End",PRJ0074655,5/14/2025,Yellow,Green,Green,Green,Green,,,,100,100,100,0,0,VERDADERO,On-Hold -> waiting for Line 2
+PRJSTAT0074696,FOR_Gate Approval accountabilities in BG lighting development projects in SAP-BTP,PRJ0075312,5/9/2025,Green,Green,,,,,,,0,0,0,0,0,VERDADERO,Development started
+PRJSTAT0074698,FOR_WHE - Interface between Arcadia and SAP PLM,PRJ0075313,5/9/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,Definition of requirements
+PRJSTAT0074613,FCS Supplier Consignment Flow - FAS BG - Wave  1 - SSED division,PRJ0074813,5/7/2025,Green,,,,,,,,,,,,,VERDADERO,no progress
+PRJSTAT0074625,"TCO - FCM - BRAGANCA - VW - E12020B Canning from Kassel - Lines KH1 DF150, KH2 DF575 and KH3 DF480",PRJ0075071,5/7/2025,Green,,,,,,,,100,100,0,0,0,VERDADERO,• PROCS set up already done in CW17 • Next step is to perform tests for DF150 & DF480 planned for CW32 • DF515 Go live delayed CW42 as machines on site ready for TCO testing delayed to CW40 • Next meeting planned for mid of July CW28
+PRJSTAT0074635,TeamCenter Share FIS POC,PRJ0074790,5/7/2025,Green,,,,,,,,,,,,,VERDADERO,Next main step is to define with Siemens the exact needed parametrization with for the Industrial Design teamcenter POC
+PRJSTAT0074615,FCS customer payment - PAD EDI Migration from VDA4907 to VDA4988 for Mercedes,PRJ0074438,5/7/2025,Yellow,,,,,,,,,,,,,VERDADERO,no progress
+PRJSTAT0074611,FCS  Supplier Consignment  Flow - FIS BG Wave 1,PRJ0074412,5/7/2025,Green,,,,,,,,,,,,,VERDADERO,No progress
+PRJSTAT0074565,FOR_HASI 3PL Warehouse - AM,PRJ0075206,5/6/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,all on track
+PRJSTAT0074566,FOR_Project SEED,PRJ0075208,5/6/2025,Green,,,,,,,,0,0,0,0,0,VERDADERO,all on track
+PRJSTAT0074473,TDC FMEA SQL database,PRJ0075249,4/30/2025,Green,,,,,,,,,,,,,VERDADERO,"Waiting Knowllence offers validation by quality group department (D. Jeangeorge) for BGs (FIS, FCM, FAS)"
+PRJSTAT0074273,TCO - FCM - PAMPLONA - VW - D42B & E10863 Line 355,PRJ0074264,4/23/2025,Green,,,,,,,,,,,,,VERDADERO,"• Project put on hold again in CW14 due to unavailability of the plant team to dedicate time to it  1. If no news from the plant according the pending tasks till June, I will proceed to cancel the project and send the GIT invoice "
+PRJSTAT0074257,JIT - NEW JIS Service with POS,PRJ0064158,4/22/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,Completed
+PRJSTAT0074102,Reaplicação de request Dzyon,PRJ0074540,4/14/2025,Yellow,,,,,,,,,,,,,VERDADERO,Lack of user validation
+PRJSTAT0074091,VIM Upgrade,PRJ0075192,4/14/2025,Green,,,,,,,,,,,,,VERDADERO,waiting for CC definition
+PRJSTAT0073781,AGV - FAS - WALBRZYCH Recliners,PRJ0075350,4/3/2025,Yellow,,,,,,,,,,,,,VERDADERO,Project on HOLD
+PRJSTAT0073740,AGV - FAS - SJM FRAMES - Jungheinrich- MHP,PRJ0075221,3/31/2025,Green,,,,,,,,,,,,,VERDADERO,PRoject on hold with no change of status
+PRJSTAT0073363,FOR_Price Lifecycle Management - Implementation Project Phase 1,PRJ0074806,3/17/2025,Green,,,,,,,,0,100,100,100,0,VERDADERO,Project is in the Go Live step
+PRJSTAT0073220,FCS - FCE - SRC - BAU - AD R&D & Prod - ME27 ,PRJ0073941,3/10/2025,Yellow,,,,,,,,100,100,100,100,0,VERDADERO,no payroll document available   - to be put on hold 
+PRJSTAT0073091,FOR_Chatbot for Connector,PRJ0075218,3/6/2025,Green,Green,Green,Green,Green,Green,Green,Green,0,0,0,0,0,VERDADERO,Chatbot for connector 1st up
+PRJSTAT0073012,TCO - FIS - KENITRA - VW - VW386 IP / VW210 IP / VW216 IP,PRJ0074669,3/3/2025,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,VERDADERO,System is Live for LECTRA 1 (Pending Lectra 2 to finalize the test)
+PRJSTAT0072746,BR-FCS - NT2018.005 v1.30 -  Identification of the Technical Responsible,PRJ0075201,2/20/2025,Green,,,,,,,,,,,,,VERDADERO,Waiting EDL approval
+PRJSTAT0072754,TCO - FIS -PUE - Nissan - H60 DP,PRJ0075099,2/20/2025,Green,,,,,,,,100,0,0,0,0,VERDADERO,Project on going - Under Recharge approval
+PRJSTAT0072567,FCE Phoenix Infra Project,PRJ0072302,2/13/2025,Green,,,,,,,,85,78,100,86,88,VERDADERO,continue work on
+PRJSTAT0072322,DMC - FCM - SAINT MELOIR,PRJ0074584,2/3/2025,Yellow,Green,Green,Green,,,,,100,70,52,16,0,VERDADERO,YELLOW : Plant ready to start but project in pause due to the selling of plant - Waiting validation from Division
+PRJSTAT0072098,TCO - FCM - SJI - Ford - P703,PRJ0074306,1/23/2025,Green,,,,,,,,,,,,,VERDADERO,Go/No go presented and postponed due to an agreement with plant to place on hold project untill quality deviation is over (wrapping station issue).
+PRJSTAT0071689,VIM Project 2024 – BC Inbound; IC4SAP; FIORI,PRJ0074677,1/7/2025,Green,Green,Green,Green,,,,,0,100,0,0,0,VERDADERO,VIM Project
+PRJSTAT0071487,FOR_HSS,PRJ0074744,12/20/2024,Green,,,,,,,,0,0,0,0,0,VERDADERO,No update so far. Preparation in plants ongoing. 
+PRJSTAT0071497,"TCO - FIS - KOSICE - PORSCHE - PO536,PO536PA,PO546, and upgrade from PDS to PDE3",PRJ0074194,12/20/2024,Green,Green,Green,Green,Green,,,,,,,,,VERDADERO,"Planning changed, testing in January"
+PRJSTAT0071403,FOR_User Lane Test project,PRJ0075031,12/16/2024,Yellow,,,,,,,,0,0,0,0,0,VERDADERO,Delays for the project launch
+PRJSTAT0071281,NEO - FAS - WALBRZYCH RECLINERS,PRJ0074276,12/12/2024,Yellow,,,,,,,,100,0,0,0,0,VERDADERO,Project on Hold - until new RFC will be developend   and SP22 instalaltion!
+PRJSTAT0070304,FCS Supplier Flow - ZA - Trade ENGELI SUPPLIER FOR FORVIA ZA,PRJ0074589,11/1/2024,Green,,,,,,,,,,,,,VERDADERO,Mtg held with FICO Team to discuss how they will be managing the Intransit Inbounds 
+PRJSTAT0069445,EWM WH Efficiency – Lozorno,PRJ0072668,9/27/2024,Green,,,,,,,,91,100,0,0,0,VERDADERO,Project planning to be reviewed and golive to be defined
+PRJSTAT0068252,TCO - FAS - SLP - GM/TESLA - RC70,PRJ0074305,8/1/2024,Green,,,,,,,,,,,,,VERDADERO,Project to be on hold due to integration to the second line will be in 3 weeks. 
+PRJSTAT0067443,EWM WH Efficiency – Nogent,PRJ0073010,6/26/2024,Yellow,,,,,,,,72,92,0,0,0,VERDADERO,Steerco meeting 25062024
+PRJSTAT0066529,PLM4FCE,PRJ0072796,5/17/2024,Yellow,Green,Green,Green,,,,,,,,,,VERDADERO,GO LIVE of FCE PLM on 18.03.24  - inclusion of additional pilots will be intensified
+PRJSTAT0066284,NEO - FAS - PISEK,PRJ0074193,5/6/2024,Green,,,,,,,,0,0,0,0,0,VERDADERO,Project on-hold
+PRJSTAT0065837,NEO/PREACTOR - FIS - MERU,PRJ0073203,4/18/2024,Yellow,Green,Green,Green,Green,Green,Green,Green,90,85,84,84,0,VERDADERO,Retrop fit on hold until prod server will be patched (June 2024)
+PRJSTAT0062912,#20 - Perform TISAX compliance assessment according to pipeline,PRJ0033157,12/20/2023,Green,,,,,,,,,,,,,VERDADERO,Pamplona FAS TISAX audit passed
+PRJSTAT0062112,TCO - FCM - BRAGANÇA - STELLANTIS - F628 C2C CMP €7 Add 2 WS ,PRJ0073573,11/22/2023,Green,Green,,,,,,,,,,,,VERDADERO,Project on Hold
+PRJSTAT0060842,EWM Rollout Project Pamplona,PRJ0073013,10/6/2023,Yellow,,,,,,,,100,100,0,0,0,VERDADERO,Plant working on the master data preparation / KU training prerequisite
+PRJSTAT0057072,#1340- Global traceability - Big data,PRJ0011367,5/9/2023,Yellow,Green,,Yellow,Green,Green,,,92,95,95,76,25,VERDADERO,Project review
+PRJSTAT0056403,SAS Shanghai Infrastructure Integration Project,PRJ0058652,4/14/2023,Green,Green,Green,Green,Green,Green,Green,,97,100,0,0,0,VERDADERO,Ongoing
+PRJSTAT0056318,Merge RU01_1432 into RU03_1598,PRJ0072598,4/10/2023,Yellow,,,,,,,,,,,,,VERDADERO,"Project on hold , no validation from authority yet"
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
