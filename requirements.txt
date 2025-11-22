@@ -1,6 +1,10 @@
-folium==0.20.0
-pandas==2.3.3
-pydeck==0.9.1
 streamlit==1.45.1
+pandas==2.3.3
+numpy
+plotly
+matplotlib
+scikit-learn
+pydeck==0.9.1
+folium==0.20.0
 streamlit_folium==0.25.3
 
