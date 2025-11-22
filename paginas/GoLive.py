@@ -18,6 +18,7 @@ from utils.data_loader import load_all_data
     performance_izquierdo,
     regiones,
     time_to_pass,
+    data,          # 👈 Faltaba esta
 ) = load_all_data()
 
 ########################################

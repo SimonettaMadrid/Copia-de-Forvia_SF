@@ -22,8 +22,9 @@ PALETTE = ["#0A2342", "#1E3A8A", "#3B82F6", "#60A5FA", "#10B981"]
     gonogo,
     performance_derecho,
     performance_izquierdo,
-    regiones,        # <- NO lo usamos aquí, pero lo dejamos para que el unpack coincida
-    time_to_pass,    # <- igual
+    regiones,
+    time_to_pass,
+    data,          # 👈 Faltaba esta
 ) = load_all_data()
 
 df = projectos_forvia_clean.copy()
