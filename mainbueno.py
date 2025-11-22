@@ -8,27 +8,27 @@ st.set_page_config(
 
 # definir páginas
 home_page = st.Page(
-    "Paginas/home.py",
+    "paginas/home.py",
     title="Home"
 )
 
 EstadoGeneral_page = st.Page(
-    "Paginas/Estado_General.py",
+    "paginas/Estado_General.py",
     title="Estado General"
 )
 
 GoLive_page = st.Page(
-    "Paginas/GoLive.py",
+    "paginas/GoLive.py",
     title="Análisis de GoLive"
 )
 
 Indicadores_de_Tiempo_page = st.Page(
-    "Paginas/Indicadores_de_tiempo.py",
+    "paginas/Indicadores_de_tiempo.py",
     title="Análisis de Indicadores de Tiempo"
 )
 
 workatRisk_page = st.Page(
-    "Paginas/Work_at_risk&_Gate_Review.py",
+    "paginas/Work_at_risk&_Gate_Review.py",
     title="Análisis de Work at Risk & Gate Review"
 )
 
